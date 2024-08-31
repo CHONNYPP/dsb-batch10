@@ -7,4 +7,4 @@ My data science and analytics projects
 2. SQL churn analysis
 3. R programming
 4. Dashboard
-5. Linear Regression Model 
+5. Linear Regression Model using caret
